@@ -7,7 +7,7 @@
 - `portrait-420.webp` и `portrait-860.webp` — адаптивные оптимизированные фотографии для быстрой загрузки
 - `cv.html` — резервная онлайн-версия полного резюме
 
-Кнопка «Полное резюме PDF» ведёт на [Яндекс Диск](https://disk.yandex.ru/i/kjXQV89_2f15mg).
+Кнопка «Полное резюме PDF» ведёт на [Яндекс Диск](https://disk.yandex.ru/i/hZxg8QInkGVxCQ).
 
 ## Развёртывание в Timeweb Cloud App Platform
 
